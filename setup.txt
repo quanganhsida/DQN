@@ -1,0 +1,4 @@
+gym
+tensorflow
+matplotlib
+gym[classic_control]
