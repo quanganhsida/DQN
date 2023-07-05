@@ -1,9 +1,9 @@
-1. Initialize the venv
+1. Initialize the virtual environment
    
 python -m venv [Your venv's name]
 
 
-2. Activate your venv
+2. Activate your virtual environment
    
 .\[Your venv's name]\Scripts\activate
 
